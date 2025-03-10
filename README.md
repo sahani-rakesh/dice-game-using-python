@@ -1,1 +1,1 @@
-# dice-game-using-python
+# Developed Dice Game Using Python

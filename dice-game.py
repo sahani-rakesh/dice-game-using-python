@@ -6,7 +6,7 @@ pygame.mixer.init()  # Initializing the mixer module of pygame
 
 def play_sound():
     """Loads and plays a sound when called."""
-    pygame.mixer.music.load("sound\click.mp3")
+    pygame.mixer.music.load("dice-game-using-python\sound.mp3")
     pygame.mixer.music.play()
 
 def rolldice():

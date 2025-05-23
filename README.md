@@ -66,9 +66,3 @@ python dice_game.py
 - Works best on desktop environments with audio output.
 
 ---
-
-## 🧑‍💻 Author
-
-Made with ❤️ using Python and Tkinter.
-
-```
